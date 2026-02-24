@@ -1,1 +1,2 @@
 Line 1: Initial content
+Строка 2: Вторая строка
